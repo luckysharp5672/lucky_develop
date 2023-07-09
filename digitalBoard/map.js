@@ -1,4 +1,3 @@
-// これはテストです
 let map, currentLatitude, currentLongitude;
 let username = document.getElementById("currentUsername").textContent || "user";
 
