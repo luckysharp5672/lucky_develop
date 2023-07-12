@@ -24,7 +24,7 @@ $username = isset($_SESSION['username']) ? $_SESSION['username'] : '';
                 margin-bottom: 10px;
             }
     </style>
-    <script type='text/javascript' src='http://www.bing.com/api/maps/mapcontrol?callback=loadMapScenario&key=ApUslpO8ghJ6mpe35ApW427eo72OmGGHg9ETniAK37AnLv7g6GzjaiEkrMB1cowL' async defer></script>
+    <script type='text/javascript' src='http://www.bing.com/api/maps/mapcontrol?callback=loadMapScenario&key=YOUR API KEY' async defer></script>
 
 </head>
 <body>
